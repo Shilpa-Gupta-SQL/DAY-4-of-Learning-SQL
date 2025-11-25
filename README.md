@@ -1,4 +1,5 @@
 Day 4 – SQL (Constraints + DDL Commands)
+
 ✔ Constraints
 Learned how UNIQUE and CHECK prevent invalid or duplicate data.
 Understood why rows get skipped when constraints fail.
