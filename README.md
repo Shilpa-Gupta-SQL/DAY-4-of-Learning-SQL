@@ -22,4 +22,4 @@ DROP deletes structure + data.
 TRUNCATE deletes rows but keeps structure and resets auto-increment.
 
 ✔ ALTER TABLE
-Used to modify column types, rename columns, add/drop columns, or rename the table.
+Used to modify column types, rename columns, add/drop columns, or rename the table. 
